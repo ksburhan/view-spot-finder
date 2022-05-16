@@ -9,7 +9,7 @@ Triangles are assumed to be neighbours if atleast one vertex is shared.
 
 ### Output
 
-```json
+```js
 [
   {
     "element_id": element_id1,
